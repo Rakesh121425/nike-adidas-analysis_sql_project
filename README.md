@@ -1,1 +1,1 @@
-# nike-adidas-analysis_sql_project
+# Nike_Adidas performance & customer_engagement SQL Project
